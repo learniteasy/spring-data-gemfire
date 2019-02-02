@@ -1,6 +1,6 @@
 # spring-data-gemfire
 
-
+```
 Before accessing data in Pivotal GemFire...
 	Adult Alice is 40 years old
 	Baby Bob is 1 years old
@@ -16,3 +16,4 @@ Query babies (less than 5):
 	Baby Bob is 1 years old
 Query teens (between 12 and 20):
 	Teen Carol is 13 years old
+```
